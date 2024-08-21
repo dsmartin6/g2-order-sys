@@ -1,0 +1,33 @@
+This is a notification window for customers: 
+Thank you for choosing our service.
+***************************************************************
+John,Your order could not go through, please try again.
+---------------------------------------------------------------
+Express Order notification for Sarah Brown:
+Status of Order #5: Shipped
+---------------------------------------------------------------
+************************ Warning ******************************
+
+Invalid Tracking number, please check your tracking number and try again
+
+************************ Warning ******************************
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Express Order notification for Sarah Brown:
+Status of Order #5: Delivered
+---------------------------------------------------------------
+************************ Warning ******************************
+
+Invalid Tracking number, please check your tracking number and try again
+
+************************ Warning ******************************
+---------------------------------------------------------------
+
+In store pick up order warning: 
+Our sincere apology,Hiro Sato
+Items listed were not available and were removed from order: 
+Paper Towel
+
+---------------------------------------------------------------
+

@@ -1,0 +1,11 @@
+Pandemic
+4,Toilet Paper,1,4.00
+2,Compact Desk,2,45.00
+15,Toothbrush,3,1.00
+3,Peanut Butter,4,3.50
+7,Pen,5,0.50
+4,Paper Towels,6,4.00
+3,Napkins,7,3.00
+2,Headphones,8,20.00
+5,Wallet,9,90.00
+2,Laptop,10,450.00

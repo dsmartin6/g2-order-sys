@@ -1,0 +1,318 @@
+Daily Activity Update Day 1:
+----------------------------------------------------------------------
+In Store Pickup Order for Name: John Harris
+Order Status: Ready for Pickup
+Order placed on day 1
+Tracking number: 1
+Order includes:Toilet Paper, Toilet Paper, Peanut Butter
+Total cost:$11.50
+Pickup location: Winter Park
+----------------------------------------------------------------------
+Daily Activity Update Day 2:
+----------------------------------------------------------------------
+In Store Pickup Order for Name: John Harris
+Order Status: Ready for pickup
+Order placed on day 1
+Tracking number: 1
+Order includes:Toilet Paper, Toilet Paper, Peanut Butter
+Total cost:$11.50
+Pickup location: Winter Park
+----------------------------------------------------------------------
+Shipped Order for Name: Mary Warren
+Order Status: Processing Order
+Order placed on day 2
+Tracking number: 2
+Order includes:Toilet Paper, Compact Desk
+Total cost:$53.90 (includes $4.90 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+
+**************************** Warning *********************************
+
+This order has been picked up and will be deleted from our system.
+Order by John Harris, tracking number: 1
+
+**********************************************************************
+Daily Activity Update Day 3:
+----------------------------------------------------------------------
+Shipped Order for Name: Mary Warren
+Order Status: Processing Order
+Order placed on day 2
+Tracking number: 2
+Order includes:Toilet Paper, Compact Desk
+Total cost:$53.90 (includes $4.90 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Shipped Order for Name: Sal Smith
+Order Status: Processing Order
+Order placed on day 3
+Tracking number: 3
+Order includes:Toilet Paper, Compact Desk
+Total cost:$53.90 (includes $4.90 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Daily Activity Update Day 4:
+----------------------------------------------------------------------
+Shipped Order for Name: Mary Warren
+Order Status: Shipped
+Order placed on day 2
+Tracking number: 2
+Order includes:Toilet Paper, Compact Desk
+Total cost:$53.90 (includes $4.90 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Shipped Order for Name: Sal Smith
+Order Status: Processing Order
+Order placed on day 3
+Tracking number: 3
+Order includes:Toilet Paper, Compact Desk
+Total cost:$53.90 (includes $4.90 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Daily Activity Update Day 5:
+----------------------------------------------------------------------
+Shipped Order for Name: Mary Warren
+Order Status: Delivered
+Order placed on day 2
+Tracking number: 2
+Order includes:Toilet Paper, Compact Desk
+Total cost:$53.90 (includes $4.90 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Shipped Order for Name: Sal Smith
+Order Status: Shipped
+Order placed on day 3
+Tracking number: 3
+Order includes:Toilet Paper, Compact Desk
+Total cost:$53.90 (includes $4.90 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Express Order for Sarah Brown
+Order Status: Shipped
+Tracking Number: 5
+Order placed on day 5
+Order includes: Toothbrush
+Total cost: $5.10 (includes $0.10 shipping fee and $4.00 express fee)
+Shipped by UPS
+Notifications?: true
+----------------------------------------------------------------------
+
+*****************************Warning**********************************
+
+This order has been delivered and complete, therefore will be deleted from our system.
+Ordered by Mary Warren, tracking number: 2
+
+**********************************************************************
+Daily Activity Update Day 6:
+----------------------------------------------------------------------
+Shipped Order for Name: Sal Smith
+Order Status: Delivered
+Order placed on day 3
+Tracking number: 3
+Order includes:Toilet Paper, Compact Desk
+Total cost:$53.90 (includes $4.90 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Express Order for Sarah Brown
+Order Status: Delivered
+Tracking Number: 5
+Order placed on day 5
+Order includes: Toothbrush
+Total cost: $5.10 (includes $0.10 shipping fee and $4.00 express fee)
+Shipped by UPS
+Notifications?: true
+----------------------------------------------------------------------
+
+*****************************Warning**********************************
+
+This order has been delivered and complete, therefore will be deleted from our system.
+Ordered by Sal Smith, tracking number: 3
+
+**********************************************************************
+Daily Activity Update Day 7:
+----------------------------------------------------------------------
+Express Order for Sarah Brown
+Order Status: Delivered
+Tracking Number: 5
+Order placed on day 5
+Order includes: Toothbrush
+Total cost: $5.10 (includes $0.10 shipping fee and $4.00 express fee)
+Shipped by UPS
+Notifications?: true
+----------------------------------------------------------------------
+Waitlist Order for Jordan Fox
+Order Status: Waitlisted
+Tracking Number: 6
+Order placed on day 7
+Order includes: Headphones
+Total cost:$20.00
+Items needed to complete order: Compact Desk
+----------------------------------------------------------------------
+
+*****************************Warning**********************************
+
+This order has been delivered and complete, therefore will be deleted from our system.
+Ordered by Sarah Brown, tracking number: 5
+
+**********************************************************************
+Daily Activity Update Day 8:
+----------------------------------------------------------------------
+Waitlist Order for Jordan Fox
+Order Status: Waitlisted
+Tracking Number: 6
+Order placed on day 7
+Order includes: Headphones
+Total cost:$20.00
+Items needed to complete order: Compact Desk
+----------------------------------------------------------------------
+Daily Activity Update Day 9:
+----------------------------------------------------------------------
+Waitlist Order for Jordan Fox
+Order Status: Waitlisted
+Tracking Number: 6
+Order placed on day 7
+Order includes: Headphones
+Total cost:$20.00
+Items needed to complete order: Compact Desk
+----------------------------------------------------------------------
+In Store Pickup Order for Name: Larry Hilfigger
+Order Status: Ready for Pickup
+Order placed on day 9
+Tracking number: 7
+Order includes:Laptop, Pen
+Total cost:$450.50
+Pickup location: Maitland
+----------------------------------------------------------------------
+Daily Activity Update Day 10:
+----------------------------------------------------------------------
+Waitlist Order for Jordan Fox
+Order Status: Waitlisted
+Tracking Number: 6
+Order placed on day 7
+Order includes: Headphones
+Total cost:$20.00
+Items needed to complete order: Compact Desk
+----------------------------------------------------------------------
+In Store Pickup Order for Name: Larry Hilfigger
+Order Status: Ready for pickup
+Order placed on day 9
+Tracking number: 7
+Order includes:Laptop, Pen
+Total cost:$450.50
+Pickup location: Maitland
+----------------------------------------------------------------------
+Shipped Order for Name: Teddy Rose
+Order Status: Processing Order
+Order placed on day 10
+Tracking number: 8
+Order includes:Toothbrush, Wallet
+Total cost:$100.10 (includes $9.10 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Waitlist Order for Teddy Rose
+Order Status: Waitlisted
+Tracking Number: 9
+Order placed on day 10
+Order includes: 
+Total cost:$0.00
+Items needed to complete order: Paper Towel
+----------------------------------------------------------------------
+
+**************************** Warning *********************************
+
+This order has been picked up and will be deleted from our system.
+Order by Larry Hilfigger, tracking number: 7
+
+**********************************************************************
+Daily Activity Update Day 11:
+----------------------------------------------------------------------
+Waitlist Order for Jordan Fox
+Order Status: Waitlisted
+Tracking Number: 6
+Order placed on day 7
+Order includes: Headphones
+Total cost:$20.00
+Items needed to complete order: Compact Desk
+----------------------------------------------------------------------
+Shipped Order for Name: Teddy Rose
+Order Status: Processing Order
+Order placed on day 10
+Tracking number: 8
+Order includes:Toothbrush, Wallet
+Total cost:$100.10 (includes $9.10 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Waitlist Order for Teddy Rose
+Order Status: Waitlisted
+Tracking Number: 9
+Order placed on day 10
+Order includes: 
+Total cost:$0.00
+Items needed to complete order: Paper Towel
+----------------------------------------------------------------------
+In Store Pickup Order for Name: Hiro Sato
+Order Status: Ready for Pickup
+Order placed on day 11
+Tracking number: 10
+Order includes:Toothbrush, Wallet
+Total cost:$91.00
+Pickup location: Japan
+----------------------------------------------------------------------
+Daily Activity Update Day 12:
+----------------------------------------------------------------------
+Waitlist Order for Jordan Fox
+Order Status: Waitlisted
+Tracking Number: 6
+Order placed on day 7
+Order includes: Headphones
+Total cost:$20.00
+Items needed to complete order: Compact Desk
+----------------------------------------------------------------------
+Shipped Order for Name: Teddy Rose
+Order Status: Shipped
+Order placed on day 10
+Tracking number: 8
+Order includes:Toothbrush, Wallet
+Total cost:$100.10 (includes $9.10 shipping fee)
+Shipped by FedEx
+----------------------------------------------------------------------
+Waitlist Order for Teddy Rose
+Order Status: Waitlisted
+Tracking Number: 9
+Order placed on day 10
+Order includes: 
+Total cost:$0.00
+Items needed to complete order: Paper Towel
+----------------------------------------------------------------------
+In Store Pickup Order for Name: Hiro Sato
+Order Status: Ready for pickup
+Order placed on day 11
+Tracking number: 10
+Order includes:Toothbrush, Wallet
+Total cost:$91.00
+Pickup location: Japan
+----------------------------------------------------------------------
+Express Order for Sarah Brown
+Order Status: Shipped
+Tracking Number: 11
+Order placed on day 12
+Order includes: Wallet
+Total cost: $103.00 (includes $9.00 shipping fee and $4.00 express fee)
+Shipped by UPS
+Notifications?: true
+----------------------------------------------------------------------
+Waitlist Order for Sarah Brown
+Order Status: Waitlisted
+Tracking Number: 12
+Order placed on day 12
+Order includes: 
+Total cost:$0.00
+Items needed to complete order: Paper Towel
+----------------------------------------------------------------------
+
+**************************** Warning *********************************
+
+This order has been picked up and will be deleted from our system.
+Order by Hiro Sato, tracking number: 10
+
+**********************************************************************
